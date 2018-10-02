@@ -16,11 +16,11 @@
 
 #### Mall
 
-Dag 4...
+##### Dag 4...
 
-Dag 3...
+##### Dag 3...
 
-Dag 2: Onsdag 3.10
+##### Dag 2: Onsdag 3.10
 
 Projekt: Avslutade google-clone
 
@@ -30,7 +30,7 @@ Bild:
 
 ![Google-clone](/images/logo.png)
 
-Dag 1: Tisdag 2.10
+##### Dag 1: Tisdag 2.10
 
 Projekt: Påbörjade google-clone övning i skolan
 
