@@ -18,24 +18,38 @@
 
 ##### Dag 4...
 
-##### Dag 3...
+Projekt: 
 
-##### Dag 2: Onsdag 3.10
-
-Projekt: Avslutade google-clone
-
-Reflektioner: Börjar förstå flexbox bättre. Borde göra en övning med flexbox. Klonen blev riktigt bra!
+Reflektioner: 
 
 Bild:
 
-![Google-clone](/images/logo.png)
+
+##### Dag 3...
+
+Projekt: 
+
+Reflektioner: 
+
+Bild:
+
+
+##### Dag 2: Onsdag 3.10
+
+Projekt: 
+
+Reflektioner: 
+
+Bild:
+
+
 
 ##### Dag 1: Tisdag 2.10
 
-Projekt: Påbörjade google-clone övning i skolan
+Projekt: Gjorde min README.md fil. 
 
-Reflektioner: Behöver lära mig mera om CSS Flexbox. Tror jag använder "flex containrar" för ofta.
+Reflektioner: 
 
 Länkar:
 
-- www.codepen.com/8128973189273
+- 
