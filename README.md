@@ -46,9 +46,9 @@ Bild:
 
 ##### Dag 1: Tisdag 2.10
 
-Projekt: Gjorde min README.md fil. 
+Projekt: Gjorde min README.md fil. Arbetade med pararbetning
 
-Reflektioner: 
+Reflektioner: Det gick bra med pararbetning
 
 Länkar:
 
