@@ -36,9 +36,9 @@ Bild:
 
 ##### Dag 2: Onsdag 3.10
 
-Projekt: 
+Projekt: Forsatte med pararbetning
 
-Reflektioner: 
+Reflektioner: Går bra, tror vi blir klar före höstloven
 
 Bild:
 
