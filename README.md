@@ -27,9 +27,9 @@ Bild:
 
 ##### Dag 3...
 
-Projekt: 
+Projekt: Javascript
 
-Reflektioner: 
+Reflektioner: Lärde mig lite javascript
 
 Bild:
 
