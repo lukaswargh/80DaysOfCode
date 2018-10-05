@@ -18,9 +18,9 @@
 
 ##### Dag 4...
 
-Projekt: 
+Projekt: Lärde mig mera javascript
 
-Reflektioner: 
+Reflektioner: Börjar kunna basics i javascript
 
 Bild:
 
