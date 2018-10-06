@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 5
+
+Projekt: Mera javascript
+
+Reflektioner: börjar tycka om det
+
 ##### Dag 4...
 
 Projekt: Lärde mig mera javascript
