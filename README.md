@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 6
+
+Projekt: Mera js
+
+Reflektioner: intressant
+
 Dag 5
 
 Projekt: Mera javascript
