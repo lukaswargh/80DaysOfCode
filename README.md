@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 7
+
+Projekt: Började laga en ny tribute page
+
+reflektioner: Kan CSS och HTML tillräckligt bra för att laga en tribute page
+
 Dag 6
 
 Projekt: Mera js
