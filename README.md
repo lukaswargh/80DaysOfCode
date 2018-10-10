@@ -16,6 +16,18 @@
 
 #### Mall
 
+Dag 9
+
+Projekt: Lagar mera design på frågformulär
+
+Reflektioner: Sku måste lära mera av andra CSS saker
+
+Dag 8
+
+Projekt: Gjorde frågformulär färdigt
+
+Reflektioner: CSS börjar gå smidigt
+
 Dag 7
 
 Projekt: Började laga en ny tribute page
