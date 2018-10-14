@@ -16,6 +16,24 @@
 
 #### Mall
 
+Dag 13
+
+Projekt: CSS
+
+relfektioner: Börjar kunna mycket
+
+Dag 12
+
+Projekt: CSS
+
+Reflektioner: lär mig mera
+
+Dag 11
+
+Projekt: Programmering videor
+
+Reflektioner: Bra
+
 Dag 10
 
 Projekt: Mera html och css
