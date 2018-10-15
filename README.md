@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 14
+
+Projekt: Lite Varierande videor
+
+Reflektioner: intressant
+
 Dag 13
 
 Projekt: CSS
