@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 15
+
+Projekt: Javascript videor
+
+Reflektioner: Javascript är intressant
+
 Dag 14
 
 Projekt: Lite Varierande videor
