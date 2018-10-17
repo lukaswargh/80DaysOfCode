@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 16
+
+Projekt: Liten egen info sida
+
+Relfektioner: Det är inte så svårt att laga en info sida
+
 Dag 15
 
 Projekt: Javascript videor
