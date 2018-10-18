@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 17
+
+Projekt: Liten info sida fortsättning
+
+Reflektioner: Går bra
+
 Dag 16
 
 Projekt: Liten egen info sida
