@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 18
+
+Projekt: Videor om html och css
+
+Reflektioner: Html och css är (I min åsikt) 100 Gånger lättare än javascript
+
 Dag 17
 
 Projekt: Liten info sida fortsättning
