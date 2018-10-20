@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 19
+
+Projekt: Experimentering
+
+Relfektioner: Jep
+
 Dag 18
 
 Projekt: Videor om html och css
