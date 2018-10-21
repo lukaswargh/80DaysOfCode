@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 20 
+
+Projekt: Html och css
+
+Reflektioner: Lite Test på hur mycket jag kan
+
 Dag 19
 
 Projekt: Experimentering
