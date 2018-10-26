@@ -16,6 +16,30 @@
 
 #### Mall
 
+Dag 25
+
+Projekt: ny css saker
+
+Relfektioner: intressant
+
+Dag 24
+
+Projekt: Nftribute
+
+Reflektioner: Har sluppit ganska lång i css coding
+
+Dag 23
+
+Projekt: Frågeformulär
+
+Relfektioner: lite fixar
+
+Dag 22
+
+Projekt: Frågeformulär
+
+Reflektioner: kan arbeta ganska snabbt och lärt mig mycket ny css
+
 Dag 21
 
 Projekt: Nftribute
