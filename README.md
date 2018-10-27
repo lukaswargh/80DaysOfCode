@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 26
+
+Projekt: lite media testning
+
+Reflektioner: Bör lära mig @media
+
 Dag 25
 
 Projekt: ny css saker
