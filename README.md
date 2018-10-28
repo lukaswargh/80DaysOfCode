@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 27
+
+Projekt: media tags
+
+Reflektioner: kan börja använda media tags bättre
+
 Dag 26
 
 Projekt: lite media testning
