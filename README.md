@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 28
+
+Projekt: produktsida
+
+Reflektioner: Kan vara lite svårt
+
 Dag 27
 
 Projekt: media tags
