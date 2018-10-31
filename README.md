@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 30
+
+Projekt: landnings sida
+
+Relfektioner: Går bra att parprogrammera, lättare att programmera ensam men det går bra
+
 Dag 29
 
 Projekt: produktsida
