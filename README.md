@@ -16,6 +16,18 @@
 
 #### Mall
 
+Dag 32
+
+Projekt: NF sida
+
+Reflektioner: går snabbt att koda
+
+Dag 31
+
+Projekt: landnings sida
+
+relfektioner: den är färdig
+
 Dag 30
 
 Projekt: landnings sida
