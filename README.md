@@ -18,6 +18,12 @@
 
 Dag 32
 
+Projekt: css columns
+
+Reflektioner: går lätt med flexbox
+
+Dag 32
+
 Projekt: NF sida
 
 Reflektioner: går snabbt att koda
