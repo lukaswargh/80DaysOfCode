@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 33
+
+Projekt: bootstrap
+
+Reflektioner: går snabbare med bootstrap
+
 Dag 32
 
 Projekt: css columns
