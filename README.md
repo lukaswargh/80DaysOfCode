@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 34
+
+Projekt: lite bootstrap recap
+
+Reflektioner: bootstrap är bra att använda
+
 Dag 33
 
 Projekt: bootstrap
