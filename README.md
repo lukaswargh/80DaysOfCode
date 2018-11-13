@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 35
+
+Projekt: documentation sida
+
+Relfektioner: flexbox är lätt
+
 Dag 34
 
 Projekt: lite bootstrap recap
