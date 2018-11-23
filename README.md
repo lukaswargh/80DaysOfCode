@@ -16,6 +16,35 @@
 
 #### Mall
 
+Dag 40
+
+Projekt: portfolio design
+
+Relfektioner: kommer ta en stund
+
+Dag 39
+
+Projekt: bootstrap testning
+
+Relfektioner: Det är lätt att ta classer från bootstrap sidan
+Dag 38
+
+Projekt: Technical doc
+
+Relfektioner: portfolion kommer att vara en liten challenge
+
+Dag 37
+
+Projekt: Technical doc
+
+Relfektioner: borde lära bootstrap
+
+Dag 36
+
+Projekt: Technical doc
+
+Relfektioner: bootstrap kommer att vara lättare
+
 Dag 35
 
 Projekt: documentation sida
