@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 41
+
+Projekt: portfolio design
+
+Relfektioner: desigen börjar vara färdig snart
+
 Dag 40
 
 Projekt: portfolio design
