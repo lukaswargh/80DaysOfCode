@@ -16,6 +16,12 @@
 
 #### Mall
 
+Dag 42
+
+Projekt: portfolio design
+
+Relfektioner: designen är färdig
+
 Dag 41
 
 Projekt: portfolio design
