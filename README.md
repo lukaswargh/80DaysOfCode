@@ -16,6 +16,18 @@
 
 #### Mall
 
+Dag 44 
+
+Projekt: portfolio
+
+Reflektioner: lite svårt med backgrundsbilder men får det snart
+
+Dag 43
+
+Projekt: porfolio
+
+Relfektioner: börjat programmera
+
 Dag 42
 
 Projekt: portfolio design
