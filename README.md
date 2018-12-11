@@ -16,6 +16,18 @@
 
 #### Mall
 
+Dag 46
+
+Projekt: portfolio
+
+Reflektioner: ändrade helt och hållet min stil
+
+Dag 45
+
+Projekt: portfolio
+
+Reflektioner: inga
+
 Dag 44 
 
 Projekt: portfolio
